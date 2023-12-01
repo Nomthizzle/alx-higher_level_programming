@@ -1,5 +1,3 @@
-vi 100-my_calculator.py
-
 #!/usr/bin/python3
 if __name__ == "__main__":
     from sys import argv
